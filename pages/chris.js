@@ -93,6 +93,8 @@ function Chris() {
               <p>🧉{' '}Founder & Organiser <a href="https://www.meetup.com/full-stack-engineering-buenos-aires" target="_blank">Full-Stack Buenos Aires</a> (Buenos Aires & Online))</p>
             </div>
 
+            <h2>Companies that have been supporting our projects over the past decade:</h2>
+
             <Image
               src="/sponsors-mate-dev.png"
               alt="Companies that have been supporting our project over the past decade"
