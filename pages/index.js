@@ -24,9 +24,9 @@ export default function Home() {
         <div className={styles.grid}>
           <Newsletter />
         </div>        
-        <p>Founder: Cloud Native Summit / Service Mesh Day / ScaleConf NZ / Full-Stack Day / PHP Conf Argentina & NZ / connecta.dev / Tech Meetups and more...</p>
+        <p>Agentic AI Build Day / Cloud Native Summit / Service Mesh Day / ScaleConf NZ / Full-Stack Day / PHP Conf Argentina & NZ / connecta.dev / Tech Meetups and more...</p>
 
-        <h3>               
+        <h3>
           <a
             href="https://buymeacoffee.com/matedev"
             target="_blank"
