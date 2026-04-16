@@ -69,7 +69,8 @@ function Chris() {
           <div>
             <h2>Connecting the Software Development Community in the APAC & LATAM regions since 2010:{' '} </h2>
             
-            <div>            
+            <div>
+              <p>🧉{' '}Founder & Organiser Agentic AI Build Day (Auckland - {" "}<a href="https://www.agenticbuild.day/" target="_blank">agenticbuild.day)</a></p>            
               <p>🧉{' '}CNCF Ambassador <a href="https://www.credly.com/badges/dccc1596-15c1-474f-8d12-626c5b3b2534" target="_blank"> (Issued by The Linux Foundation)</a></p>
               <p>🧉{' '}Founder & Organiser Cloud Native Summit (Wellington - {" "}<a href="https://cloudnativesummit.co/nz" target="_blank">cloudnativesummit.co)</a></p>            
               <p>🧉{' '}Co-Founder & Event Community Lead - Agentics Day: MCP + Agents 2026<a href="https://www.credly.com/earner/earned/badge/35ac4d87-345b-48f5-8693-56fcccecd0bf" target="_blank"> (Issued by The Linux Foundation)</a></p>
@@ -92,7 +93,15 @@ function Chris() {
               <p>🧉{' '}Founder & Organiser <a href="https://www.meetup.com/full-stack-engineering-buenos-aires" target="_blank">Full-Stack Buenos Aires</a> (Buenos Aires & Online))</p>
             </div>
 
-            <h3>               
+            <Image
+              src="/sponsors-mate-dev.png"
+              alt="Companies that have been supporting our project over the past decade"
+              width={800}
+              height={400}
+              style={{ maxWidth: '100%', height: 'auto' }}
+            />
+
+            <h3>
               <a
                 href="https://buymeacoffee.com/matedev"
                 target="_blank"
