@@ -24,7 +24,7 @@ export default function Home() {
         <div className={styles.grid}>
           <Newsletter />
         </div>        
-        <p>Agentic AI Build Day / Cloud Native Summit / Service Mesh Day / ScaleConf NZ / Full-Stack Day / PHP Conf Argentina & NZ / connecta.dev / Tech Meetups and more...</p>
+        <p>Agentic Engineering Day NZ / Cloud Native AI Summit / Service Mesh Day / ScaleConf NZ / Full-Stack Day / PHP Conf Argentina & NZ / connecta.dev / Tech Meetups and more...</p>
 
         <h3>
           <a

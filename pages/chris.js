@@ -24,7 +24,7 @@ function Chris() {
         </h2>
 
         <p className={styles.description}>
-        Software & DevOps Engineer + CNCF Ambassador | From #Patagonia.{" "}🇦🇷 🇳🇿 🧉 ♜
+        AAIF & CNCF Ambassador | Community Organizer, Cloud-Native, AI & Chess Enthusiast | Software & DevOps Engineer | From #Patagonia.{" "}🇦🇷 🇳🇿 🧉 ♜
         </p>
 
         <div className={styles.grid}>
