@@ -26,6 +26,21 @@ export default function Home() {
         </div>        
         <p>Agentic Engineering Day NZ / Cloud Native AI Summit / Service Mesh Day / ScaleConf NZ / Full-Stack Day / PHP Conf Argentina & NZ / connecta.dev / Tech Meetups and more...</p>
 
+
+        <h3>
+          <a
+            href="https://luma.com/event/evt-9YZHTCgXiFdFQgT"
+            class="luma-checkout--button"
+            data-luma-action="checkout"
+            data-luma-event-id="evt-9YZHTCgXiFdFQgT"
+          >
+            Register for Event
+          </a>
+
+          <script id="luma-checkout" src="https://embed.lu.ma/checkout-button.js"></script>
+        </h3>
+        
+        
         <h3>
           <a
             href="https://buymeacoffee.com/matedev"
