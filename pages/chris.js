@@ -70,8 +70,9 @@ function Chris() {
             <h2>Connecting the Software Development Community in the APAC & LATAM regions since 2010:{' '} </h2>
             
             <div>
-              <p>🧉{' '}Founder & Organiser Agentic AI Build Day (Auckland - {" "}<a href="https://www.agenticbuild.day/" target="_blank">agenticbuild.day)</a></p>            
-              <p>🧉{' '}CNCF Ambassador <a href="https://www.credly.com/badges/dccc1596-15c1-474f-8d12-626c5b3b2534" target="_blank"> (Issued by The Linux Foundation)</a></p>
+              <p>🧉{' '}Founder & Organiser Agentic Engineering Day NZ (Auckland - {" "}<a href="https://www.agenticengineering.day/" target="_blank">agenticengineering.day)</a></p>            
+              <p>🧉{' '}AAIF Ambassador <a href="https://www.credly.com/badges/96593dba-36fa-4fad-a814-e39c87ad72b2/public_url" target="_blank"> (Issued by The Linux Foundation 2026)</a></p>
+              <p>🧉{' '}CNCF Ambassador <a href="https://www.credly.com/badges/dccc1596-15c1-474f-8d12-626c5b3b2534" target="_blank"> (Issued by The Linux Foundation 2023-2028)</a></p>
               <p>🧉{' '}Founder & Organiser Cloud Native Summit (Wellington - {" "}<a href="https://cloudnativesummit.co/nz" target="_blank">cloudnativesummit.co)</a></p>            
               <p>🧉{' '}Co-Founder & Event Community Lead - Agentics Day: MCP + Agents 2026<a href="https://www.credly.com/earner/earned/badge/35ac4d87-345b-48f5-8693-56fcccecd0bf" target="_blank"> (Issued by The Linux Foundation)</a></p>
               <p>🧉{' '}EnvoyCon NA 2025 Program Committee Member<a href="https://www.credly.com/earner/earned/badge/708ca679-ab62-49f1-b6f5-4ec53a39c766" target="_blank"> (Issued by The Linux Foundation)</a></p>
