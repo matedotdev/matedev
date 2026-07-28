@@ -26,7 +26,7 @@ export default function Home() {
         </div>        
         <p>Agentic Engineering Day NZ / Cloud Native AI Summit / Service Mesh Day / ScaleConf NZ / Full-Stack Day / PHP Conf Argentina & NZ / connecta.dev / Tech Meetups and more...</p>
 
-
+        <p>NEXT EVENT: Agentic Engineering & Infra | Auckland AI Builders (in person event) / Tuesday, August 11 5:00 PM - 7:30 PM</p>
         <h3>
           <a
             href="https://luma.com/event/evt-9YZHTCgXiFdFQgT"
@@ -34,13 +34,13 @@ export default function Home() {
             data-luma-action="checkout"
             data-luma-event-id="evt-9YZHTCgXiFdFQgT"
           >
-            Register for Event
+            Register for Agentic Engineering & Infra Meetup
           </a>
 
           <script id="luma-checkout" src="https://embed.lu.ma/checkout-button.js"></script>
         </h3>
         
-        
+
         <h3>
           <a
             href="https://buymeacoffee.com/matedev"
