@@ -29,12 +29,12 @@ export default function Home() {
         <p>NEXT EVENT: Agentic Engineering & Infra | Auckland AI Builders (in person event) / Tuesday, August 11 5:00 PM - 7:30 PM</p>
         <h3>
           <a
-            href="https://luma.com/event/evt-9YZHTCgXiFdFQgT"
+            href="https://luma.com/event/evt-l1xB07TiRiphndf"
             class="luma-checkout--button"
             data-luma-action="checkout"
-            data-luma-event-id="evt-9YZHTCgXiFdFQgT"
+            data-luma-event-id="evt-l1xB07TiRiphndf"
           >
-            Register for Agentic Engineering & Infra Meetup
+            Register for New Zealand AI Builders (Wellington - in person event)
           </a>
 
           <script id="luma-checkout" src="https://embed.lu.ma/checkout-button.js"></script>
